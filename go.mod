@@ -1,4 +1,4 @@
-module github.com/szkiba/xk6-dotenv
+module github.com/qapquiz/xk6-dotenv
 
 go 1.18
 
